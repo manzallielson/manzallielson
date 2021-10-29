@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<becoming a web developer>
+  this is my repository for studies. I'm currently studying 	💻 :computer: :
+  
+* - CSS
+* - HTML
+* - JAVASCRIPT
+
 <!--
 **manzallielson/manzallielson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
