@@ -1,8 +1,8 @@
 ### Hi Guys 👋
 
 
-<becoming a web developer>
-  this is my repository for studies. I'm currently studying 	💻 :computer: :
+                <becoming a web developer>
+  This is my repository for studies. I'm currently studying 	💻 :
   
 *  CSS
 *  HTML
