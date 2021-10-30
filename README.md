@@ -27,7 +27,7 @@ This is my repository for studies. I'm currently studying 	💻 :
 
   
 <p align="left">
- <h2>Linkedin   <a href="https://www.linkedin.com/in/elson-manzalli-6b44237a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elson-manzalli-6b44237a/" height="30" width="40" /></a></h2> 
- <h2>Instagram <a href="https://www.instagram.com/elson_manzalli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elson_manzalli/" height="30" width="40" /></a>
+ <h2>Linkedin   <a href="https://www.linkedin.com/in/elson-manzalli-6b44237a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elson-manzalli-6b44237a/" height="30" width="40" /></a></h2> 
+ <h2>Instagram <a href="https://www.instagram.com/elson_manzalli/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elson_manzalli/" height="30" width="40" /></a>
  </p> </h2 >
 </body>
